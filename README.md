@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-👨‍💻 Beginner Web Developer proficient in MERN stack, JavaScript, Java, and Python.
+👨‍💻 **Beginner Web Developer proficient in MERN stack, JavaScript, Java, and Python**.
 
 🔭 Currently building projects to enhance my skills and portfolio.
 
 🌱 Always eager to learn and improve in web development.
 
-📫 Reach me via my portfolio: [https://sahil-personal-portfolio-website.netlify.app
-
-] or through my socials.
+📫 Reach me via my portfolio: **[https://sahil-personal-portfolio-website.netlify.app]** or through my socials.
 
 😄 Pronouns: he/him
 
